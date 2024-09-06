@@ -27,3 +27,28 @@ The key topics covered include:<br>
   
 - _Model Evaluation:_ Understanding overfitting and underfitting, cross-validation, and performance metrics like confusion matrices, AUC-ROC curves, and learning curves.
 
+
+## Setup Instructions
+1 . To get started \
+clone the repository:
+``` 
+git clone https://github.com/chuadharysagar/Machine-Learning
+
+cd supervised-learning-course
+```
+
+2 . Open Jupyter Notebook \
+You can view and run the course materials in Jupyter Notebooks by following these steps: 
+1. Ensure Jupyter Notebook is installed on your machine. If it's not installed, you can install it using:
+```
+pip install notebook
+```
+2. Navigate to the project directory:
+```
+cd Machine-Learning
+```
+3. Launch Jupyter Notebook:
+```
+jupyter notebook
+```
+4. A browser window will open, displaying the course's notebooks. Navigate through the notebooks in the notebooks folder to explore and run the examples.
