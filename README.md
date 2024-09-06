@@ -7,7 +7,7 @@ This repository contains the materials, notes, and resources I used during my Su
 
 ## Table of Content 
 The key topics covered include:<br>
-- _Introduction to Supervised Learning:_ Basic concepts, types of learning (classification vs. regression), and key applications.
+- __Introduction to Supervised Learning:__ Basic concepts, types of learning (classification vs. regression), and key applications.
 - Linear Regression: Understanding simple and multiple linear regression, loss functions, gradient descent, and evaluation metrics (e.g., R-squared, RMSE).
 - Logistic Regression: For binary classification, the sigmoid function, decision boundaries, and evaluation (e.g., accuracy, precision, recall, F1-score).
 - K-Nearest Neighbors (KNN): Concept of instance-based learning, distance metrics (e.g., Euclidean distance), and how KNN can be used for classification and regression.
